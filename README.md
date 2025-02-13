@@ -8,3 +8,7 @@ Paper: Progressive Growing of GANs for Improved Quality, Stability, and Variatio
 
 
 
+ ![Image Alt](https://github.com/ilhem-sb/Denoising-Autoencoder/blob/eba4bd8e053469f58302834e82c827a9e55bc2e6/Predicting%20the%20Model.jpg)
+
+ Test the model on real images real images 3000x2000 px
+
